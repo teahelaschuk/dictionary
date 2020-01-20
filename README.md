@@ -1,7 +1,7 @@
 # dictionary
 
 An English dictionary, broken down into syllables separated by an '=' character
-This dictionary and formatted for my haiku generator site. 
+This dictionary has been formatted for my haiku generator site. 
 
 Words that can be edited/deleted:
 + any abbrevaitions (ex. MPH, AVG...)
